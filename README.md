@@ -1,10 +1,10 @@
 # SSHPry2.0
-Full TTY control of SSH Session
+ This is a second release of SSHPry tool, with multiple features added.
+- Control of target's TTY
+- Built-In Keylogger
+- Console-Level phishing
+- Record & Replay previous sessions
 
-Useful tool for Linux Administrators, Penetration Testers and Red Teams.
-
-Take TTY control of active SSH session.
-
-Acts similar to GNU screen '-x' feature, but mirrors any hidden input like passwords.
-
-Usage: SSHPry2.py -h
+Demo: https://youtu.be/2gfnBvu1u34
+Blogpost: http://www.korznikov.com/2017/09/sshpry-v2-spy-control-ssh-connected.html
+Twitter: @nopernik
