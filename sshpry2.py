@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # SSHPry2.py Version 2.0 (GNU General Public License v 3.0)
 # 

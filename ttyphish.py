@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Author Alexander Korznikov
 # Twitter: @nopernik
